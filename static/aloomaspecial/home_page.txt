@@ -1,0 +1,49 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Can I dispose of heavy materials like concrete or asphalt?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our construction dumpsters are designed for heavy debris. Contact us for details on weight limits.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do you calculate the final weight of my debris?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">All of our trucks are required to go to a certified weigh station at the disposal facility. They weigh the truck when it's full (gross weight) and again after it's been emptied (tare weight). The difference between these two numbers is the exact, certified weight of your disposed material, a copy of which is available to you.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What items are prohibited in dumpsters?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Hazardous materials like chemicals, batteries, and tires cannot be placed in dumpsters. Our team provides a full list of restrictions.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are there specific types of waste from a demolition that cannot be mixed?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. While most C&D (Construction and Demolition) debris can be mixed, any material containing asbestos must be handled separately by licensed abatement professionals. Additionally, any hazardous fluids from old machinery must be drained before the metal can be disposed off.</p>
+                <h4 class="template4 palooma" style="font-size:large;">I have a lot of scrap metal. Do you pay for it or is there still a hauling fee?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While we do not purchase scrap metal directly, we can provide a dedicated roll off container for it. Depending on the volume and current market rates for metal, we can often offer a significantly reduced hauling fee or, in some cases, a no-cost haul for clean-loaded, high-value scrap. Please call us to discuss your specific material.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need to be physically present when your driver delivers the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No, you do not need to be on-site for the delivery. As long as you provide us with clear, specific placement instructions when you place your order, and you ensure the delivery area is completely free of any cars, equipment, or other obstructions, our driver can handle the placement for you.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
